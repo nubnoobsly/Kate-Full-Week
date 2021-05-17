@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Made with love and adobe animate
+-->
+<TextureAtlas imagePath="Sneaker.png" width="3405" height="3260">
+  <SubTexture name="Sneaker_Right0001" x="0" y="0"  width="968" height="549" frameX="-19" frameY="-16" frameWidth="993" frameHeight="578"/>
+  <SubTexture name="Sneaker_Idle0001" x="968" y="0"  width="968" height="551" frameX="-7" frameY="-10" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Left0001" x="0" y="549"  width="962" height="551" frameX="-13" frameY="-7" frameWidth="987" frameHeight="579"/>
+  <SubTexture name="Sneaker_Idle0009" x="1936" y="0"  width="918" height="529" frameX="-38" frameY="-33" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Idle0002" x="1936" y="529"  width="906" height="523" frameX="-45" frameY="-39" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Up0003" x="962" y="551"  width="733" height="893" frameX="-44" frameY="-10" frameWidth="822" frameHeight="930"/>
+  <SubTexture name="Sneaker_Idle0008" x="0" y="1100"  width="869" height="505" frameX="-68" frameY="-57" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Down0001" x="1695" y="1052"  width="856" height="410" frameX="-7" frameY="-10" frameWidth="883" frameHeight="427"/>
+  <SubTexture name="Sneaker_Down0002" x="2551" y="1052"  width="854" height="381" frameX="-8" frameY="-34" frameWidth="883" frameHeight="427"/>
+  <SubTexture name="Sneaker_Down0003" x="2551" y="1433"  width="846" height="354" frameX="-12" frameY="-58" frameWidth="883" frameHeight="427"/>
+  <SubTexture name="Sneaker_Idle0003" x="869" y="1462"  width="844" height="493" frameX="-84" frameY="-69" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Up0002" x="1713" y="1462"  width="768" height="837" frameX="-26" frameY="-66" frameWidth="822" frameHeight="930"/>
+  <SubTexture name="Sneaker_Left0002" x="0" y="1605"  width="831" height="506" frameX="-75" frameY="-51" frameWidth="987" frameHeight="579"/>
+  <SubTexture name="Sneaker_Idle0007" x="831" y="1955"  width="820" height="482" frameX="-99" frameY="-80" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Right0002" x="0" y="2111"  width="816" height="523" frameX="-88" frameY="-43" frameWidth="993" frameHeight="578"/>
+  <SubTexture name="Sneaker_Up0001" x="2481" y="1787"  width="802" height="782" frameX="-8" frameY="-122" frameWidth="822" frameHeight="930"/>
+  <SubTexture name="Sneaker_Idle0004" x="1651" y="2299"  width="799" height="464" frameX="-106" frameY="-98" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Idle0006" x="816" y="2437"  width="796" height="458" frameX="-104" frameY="-104" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Idle0005" x="0" y="2634"  width="780" height="435" frameX="-102" frameY="-128" frameWidth="984" frameHeight="575"/>
+  <SubTexture name="Sneaker_Left0003" x="2450" y="2569"  width="718" height="460" frameX="-118" frameY="-95" frameWidth="987" frameHeight="579"/>
+  <SubTexture name="Sneaker_Right0003" x="1612" y="2763"  width="692" height="497" frameX="-157" frameY="-70" frameWidth="993" frameHeight="578"/>
+</TextureAtlas>

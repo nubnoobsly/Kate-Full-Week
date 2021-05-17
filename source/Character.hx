@@ -141,6 +141,24 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 
+			case 'sneaker':
+				tex = Paths.getSparrowAtlas('characters/Sneaker');
+				frames = tex;
+				animation.addByPrefix('idle', 'Sneaker_Idle', 24);
+				animation.addByPrefix('singUP', 'Sneaker_Up', 24);
+				animation.addByPrefix('singRIGHT', 'Sneaker_Right', 24);
+				animation.addByPrefix('singDOWN', 'Sneaker_Down', 24);
+				animation.addByPrefix('singLEFT', 'Sneaker_Left', 24);
+
+				addOffset('idle');
+				addOffset("singUP", -6, 50);
+				addOffset("singRIGHT", 0, 27);
+				addOffset("singLEFT", -10, 10);
+				addOffset("singDOWN", 0, -30);
+
+
+				playAnim('idle');
+
 							case 'kate':
 				// DAD ANIMATION LOADING CODE
 				tex = Paths.getSparrowAtlas('characters/kate');
