@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="texture.png" width="1814" height="2592">
+  <SubTexture name="Screamer_Right.0002.png" x="0" y="0"  width="518" height="698" frameX="-10" frameY="-17" frameWidth="536" frameHeight="726"/>
+  <SubTexture name="Screamer_Up.0002.png" x="518" y="0"  width="493" height="732" frameX="-4" frameY="-16" frameWidth="516" frameHeight="753"/>
+  <SubTexture name="Screamer_Right.0001.png" x="0" y="698"  width="490" height="709" frameX="-17" frameY="-6" frameWidth="536" frameHeight="726"/>
+  <SubTexture name="Screamer_Up.0001.png" x="1011" y="0"  width="451" height="743" frameX="-52" frameY="-5" frameWidth="516" frameHeight="753"/>
+  <SubTexture name="Screamer_Left.0002.png" x="490" y="732"  width="460" height="618" frameX="-6" frameY="-17" frameWidth="470" frameHeight="641"/>
+  <SubTexture name="Screamer_Left.0001.png" x="950" y="743"  width="440" height="626" frameX="-26" frameY="-9" frameWidth="470" frameHeight="641"/>
+  <SubTexture name="Screamer_Down.0002.png" x="490" y="1369"  width="509" height="466" frameX="-11" frameY="-6" frameWidth="537" frameHeight="479"/>
+  <SubTexture name="Screamer_Down.0001.png" x="999" y="1369"  width="515" height="460" frameX="-11" frameY="-12" frameWidth="537" frameHeight="479"/>
+  <SubTexture name="Screamer_idle.0005.png" x="1462" y="0"  width="336" height="663" frameX="-43" frameY="-97" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0006.png" x="1462" y="663"  width="304" height="687" frameX="-43" frameY="-73" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0004.png" x="1514" y="1350"  width="300" height="686" frameX="-43" frameY="-74" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0007.png" x="999" y="1829"  width="268" height="712" frameX="-43" frameY="-48" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0003.png" x="0" y="1407"  width="254" height="719" frameX="-43" frameY="-41" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0002.png" x="1267" y="1829"  width="240" height="739" frameX="-27" frameY="-21" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0008.png" x="254" y="1835"  width="243" height="724" frameX="-43" frameY="-36" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0001.png" x="497" y="1835"  width="231" height="757" frameX="-3" frameY="-3" frameWidth="382" frameHeight="766"/>
+  <SubTexture name="Screamer_idle.0009.png" x="728" y="1835"  width="217" height="745" frameX="-43" frameY="-15" frameWidth="382" frameHeight="766"/>
+</TextureAtlas>

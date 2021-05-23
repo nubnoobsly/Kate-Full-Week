@@ -200,6 +200,44 @@ class Character extends FlxSprite
 
 				playAnim('idle');
 
+			case 'kateshad':
+				// DAD ANIMATION LOADING CODE
+				tex = Paths.getSparrowAtlas('characters/DADDY_DEAREST');
+				frames = tex;
+				animation.addByPrefix('idle', 'Screamer idle', 24);
+				animation.addByPrefix('singUP', 'Screamer Up', 24);
+				animation.addByPrefix('singRIGHT', 'Screamer Right', 24);
+				animation.addByPrefix('singDOWN', 'Screamer Down', 24);
+				animation.addByPrefix('singLEFT', 'Screamer Left', 24);
+
+				addOffset('idle');
+				addOffset("singUP", -6, 50);
+				addOffset("singRIGHT", 0, 27);
+				addOffset("singLEFT", -10, 10);
+				addOffset("singDOWN", 0, -30);
+
+				playAnim("idle")
+							case 'kateshad':
+				// DAD ANIMATION LOADING CODE
+				tex = Paths.getSparrowAtlas('characters/kateinsane');
+				frames = tex;
+				animation.addByPrefix('idle', 'kate shad Idle', 24);
+				animation.addByPrefix('singUP', 'kate shad Up', 24);
+				animation.addByPrefix('singRIGHT', 'kate shad Right', 24);
+				animation.addByPrefix('singDOWN', 'kate shad Down', 24);
+				animation.addByPrefix('singLEFT', 'kate shad Left', 24);
+
+				addOffset('idle');
+				addOffset("singUP", -6, 35);
+				addOffset("singRIGHT", 0, 12);
+				addOffset("singLEFT", -10, -5);
+				addOffset("singDOWN", 0, -45);
+
+
+				playAnim('idle');
+
+
+
 			case 'spooky':
 				tex = Paths.getSparrowAtlas('characters/spooky_kids_assets');
 				frames = tex;

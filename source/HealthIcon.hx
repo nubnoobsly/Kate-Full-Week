@@ -24,7 +24,6 @@ class HealthIcon extends FlxSprite
 		animation.add('pico', [4, 5], 0, false, isPlayer);
 		animation.add('mom', [6, 7], 0, false, isPlayer);
 		animation.add('mom-car', [6, 7], 0, false, isPlayer);
-		animation.add('tankman', [8, 9], 0, false, isPlayer);
 		animation.add('face', [10, 11], 0, false, isPlayer);
 		animation.add('dad', [12, 13], 0, false, isPlayer);
 		animation.add('senpai', [22, 22], 0, false, isPlayer);
@@ -36,10 +35,12 @@ class HealthIcon extends FlxSprite
 		animation.add('gf-pixel', [16], 0, false, isPlayer);
 		animation.add('parents-christmas', [17, 18], 0, false, isPlayer);
 		animation.add('monster', [19, 20], 0, false, isPlayer);
-		animation.add('monster-christmas', [19, 20], 0, false, isPlayer);
+		animation.add('monster-christmas', [8, 9], 0, false, isPlayer);
 		animation.add('kate', [24, 25], 0, false, isPlayer);
 		animation.add('kateinsane', [26, 27], 0, false, isPlayer);
 		animation.add('sneaker', [28, 29], 0, false, isPlayer);
+		animation.add('screamer', [30,31], 0, isPlayer);
+		animation.add('kateshad', [32,33], 0, isPlayer);
 		animation.play(char);
 
 		switch(char)

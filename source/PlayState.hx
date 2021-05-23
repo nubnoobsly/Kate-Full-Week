@@ -765,6 +765,12 @@ class PlayState extends MusicBeatState
                 dad.x += 50;
                 camPos.y += 100;
                 camPos.x += 400;
+            case 'sneaker':
+                dad.y += 125;
+                dad.x += 50;
+                camPos.y += 100;
+                camPos.x += 400;
+               
 			case 'pico':
 				camPos.x += 600;
 				dad.y += 300;
