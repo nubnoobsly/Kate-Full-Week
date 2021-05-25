@@ -216,8 +216,9 @@ class Character extends FlxSprite
 				addOffset("singLEFT", -10, 10);
 				addOffset("singDOWN", 0, -30);
 
-				playAnim("idle")
-							case 'kateshad':
+				playAnim("idle");
+				
+				case 'kateshad':
 				// DAD ANIMATION LOADING CODE
 				tex = Paths.getSparrowAtlas('characters/kateinsane');
 				frames = tex;
